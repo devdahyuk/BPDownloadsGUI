@@ -22,12 +22,38 @@
             "2020": "https://igcsego.dhmirror.top/0:/Mathematics%20(0580)/2020/",
             "2021": "https://igcsego.dhmirror.top/0:/Mathematics%20(0580)/2021/"
         },
-        "blank": {
-            "MS-DOS 2.11 (5.25)": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%202.11%20(5.25).zip",
-            "MS-DOS 3.31": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%203.31.zip",
-            "MS-DOS 4.01a": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%204.01a.zip",
-            "MS-DOS 5.00a": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%205.00a.zip",
-            "MS-DOS 6.22": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%206.22.zip"
-        }
+        "Chemistry (0620)": {
+            "2002": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2002/",
+            "2003": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2003/",
+            "2004": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2004/",
+            "2005": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2005/",
+            "2006": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2006/",
+            "2007": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2007/",
+            "2008": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2008/",
+            "2009": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2009/",
+            "2010": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2010/",
+            "2011": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2011/",
+            "2012": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2012/",
+            "2013": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2013/",
+            "2014": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2014/",
+            "2015": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2015/",
+            "2016": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2016/",
+            "2017": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2017/",
+            "2018": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2018/",
+            "2019": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2019/",
+            "2020": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2020/",
+            "2021": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2021/",
+            "2023 Specimen Paper": "https://igcsego.dhmirror.top/0:/Chemistry%20%280620%29/2023%20Specimen%20Paper/"
+        },
+	    "Computer Science (0478)": {
+            "2015": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2015/",
+            "2016": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2016/",
+            "2017": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2017/",
+            "2018": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2018/",
+            "2019": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2019/",
+            "2020": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2020/",
+            "2021": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2021/",
+            "2023 Specimen Paper": "https://igcsego.dhmirror.top/0:/Computer%20Science%20%280478%29/2023%20Specimen%20Paper/"
+        }    
     }
 }
