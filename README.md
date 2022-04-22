@@ -1,5 +1,5 @@
-# igcse-down.dhmirror.top
-This is the source code of igcse-down.dhmirror.top, which provides IGCSE Materials
+# igcse.dhmirror.top
+This is the source code of igcse.dhmirror.top, which provides IGCSE Materials
 
 ## forked from TheBobPony@GitHub
 thanks to TheBobPony who provided the repository w/ simple design
